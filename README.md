@@ -1,2 +1,5 @@
-# Book-Store
-Selling or Buying Books.
+Firstly insert book_store.sql to database.
+
+Login
+ user = admin@gmail.com
+ password = admin
